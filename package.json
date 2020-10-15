@@ -1,0 +1,23 @@
+{
+  "name": "uitestforcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"cypress:open":"cypress open",
+  	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfeng1016/UITestForCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfeng1016/UITestForCypress/issues"
+  },
+  "homepage": "https://github.com/rfeng1016/UITestForCypress#readme",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}
